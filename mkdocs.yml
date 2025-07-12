@@ -1,0 +1,9 @@
+site_name: My MkDocs Demo Site
+site_url: https://example.com
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: green
+    accent: amber
+
